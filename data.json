@@ -1,0 +1,242 @@
+[
+    {
+        "nome": "América Mineiro",
+        "descricao": "Conhecido como Coelho, o América Mineiro manda seus jogos na Arena Independência, que fica na cidade de Belo Horizonte.",
+        "ano": "1912",
+        "link": "https://americamineiro.com.br/"
+    },
+    {
+        "nome": "Amazonas",
+        "descricao": "Conhecido como Onça-pintada, o Amazonas manda seus jogos na Arena da Amazônia, que fica na cidade de Manaus.",
+        "ano": "2019",
+        "link": "https://amazonasfc.com.br/"
+    },
+    {
+        "nome": "Atlético Goianiense",
+        "descricao": "Conhecido como Dragão, o Atlético Goianiense manda seus jogos no Estádio Antônio Accioly, que fica na cidade de Goiânia.",
+        "ano": "1937",
+        "link": "https://atleticogoianiense.com.br/"
+    },
+    {
+        "nome": "Athletico Paranaense",
+        "descricao": "Conhecido como Furacão, o Athletico Paranaense manda seus jogos na Ligga Arena, que fica na cidade de Curitiba.",
+        "ano": "1924",
+        "link": "https://www.athletico.com.br/"
+    },
+    {
+        "nome": "Atlético Mineiro",
+        "descricao": "Conhecido como Galo, o Atlético Mineiro manda seus jogos na Arena MRV, que fica na cidade de Belo Horizonte.",
+        "ano": "1908",
+        "link": "https://atletico.com.br/"
+    },
+    {
+        "nome": "Avaí",
+        "descricao": "Conhecido como Leão da Ilha, o Avaí manda seus jogos no Estádio da Ressacada, que fica na cidade de Florianópolis.",
+        "ano": "1923",
+        "link": "https://www.avai.com.br/"
+    },
+    {
+        "nome": "Bahia",
+        "descricao": "Conhecido como Esquadrão de Aço, o Bahia manda seus jogos na Arena Fonte Nova, que fica na cidade de Salvador.",
+        "ano": "1931",
+        "link": "https://www.esporteclubebahia.com.br/"
+    },
+    {
+        "nome": "Botafogo",
+        "descricao": "Conhecido como Glorioso, o Botafogo manda seus jogos no Estádio Nilton Santos, que fica na cidade do Rio de Janeiro.",
+        "ano": "1904",
+        "link": "https://www.botafogo.com.br/"
+    },
+    {
+        "nome": "CRB",
+        "descricao": "Conhecido como Galo da Pajuçara, o CRB manda seus jogos no Estádio Rei Pelé, que fica na cidade de Maceió.",
+        "ano": "1912",
+        "link": "https://www.crboficial.com.br/"
+    },
+    {
+        "nome": "CSA",
+        "descricao": "Conhecido como Azulão do Mutange, o CSA manda seus jogos no Estádio Rei Pelé, que fica na cidade de Maceió.",
+        "ano": "1913",
+        "link": "https://www.csaoficial.com.br/"
+    },
+    {
+        "nome": "Ceará",
+        "descricao": "Conhecido como Vozão, o Ceará manda seus jogos na Arena Castelão, que fica na cidade de Fortaleza.",
+        "ano": "1914",
+        "link": "https://cearasc.com/"
+    },
+    {
+        "nome": "Corinthians",
+        "descricao": "Conhecido como Timão, o Corinthians manda seus jogos na Neo Química Arena, que fica na cidade de São Paulo.",
+        "ano": "1910",
+        "link": "https://www.corinthians.com.br/"
+    },
+    {
+        "nome": "Coritiba",
+        "descricao": "Conhecido como Coxa, o Coritiba manda seus jogos no Estádio Couto Pereira, que fica na cidade de Curitiba.",
+        "ano": "1909",
+        "link": "https://www.coritiba.com.br/"
+    },
+    {
+        "nome": "Chapecoense",
+        "descricao": "Conhecido como Verdão do Oeste, a Chapecoense manda seus jogos na Arena Condá, que fica na cidade de Chapecó.",
+        "ano": "1973",
+        "link": "https://chapecoense.com/"
+    },
+    {
+        "nome": "Criciúma",
+        "descricao": "Conhecido como Tigre, o Criciúma manda seus jogos no Estádio Heriberto Hülse, que fica na cidade de Criciúma.",
+        "ano": "1947",
+        "link": "https://www.criciuma.com.br/"
+    },
+    {
+        "nome": "Cruzeiro",
+        "descricao": "Conhecido como Raposa, o Cruzeiro manda seus jogos no Mineirão, que fica na cidade de Belo Horizonte.",
+        "ano": "1921",
+        "link": "https://cruzeiro.com.br/"
+    },
+    {
+        "nome": "Flamengo",
+        "descricao": "Conhecido como Mengão, o Flamengo manda seus jogos no Maracanã, que fica na cidade do Rio de Janeiro.",
+        "ano": "1895",
+        "link": "https://www.flamengo.com.br/"
+    },
+    {
+        "nome": "Figueirense",
+        "descricao": "Conhecido como Figueira, o Figueirense manda seus jogos no Estádio Orlando Scarpelli, que fica na cidade de Florianópolis.",
+        "ano": "1921",
+        "link": "https://www.figueirense.com.br/"
+    },
+    {
+        "nome": "Fluminense",
+        "descricao": "Conhecido como Tricolor, o Fluminense manda seus jogos no Maracanã, que fica na cidade do Rio de Janeiro.",
+        "ano": "1902",
+        "link": "https://www.fluminense.com.br/"
+    },
+    {
+        "nome": "Fortaleza",
+        "descricao": "Conhecido como Leão do Pici, o Fortaleza manda seus jogos na Arena Castelão, que fica na cidade de Fortaleza.",
+        "ano": "1918",
+        "link": "https://fortaleza1918.com.br/"
+    },
+    {
+        "nome": "Goiás",
+        "descricao": "Conhecido como Esmeraldino, o Goiás manda seus jogos no Estádio da Serrinha, que fica na cidade de Goiânia.",
+        "ano": "1943",
+        "link": "https://www.goiasec.com.br/"
+    },
+    {
+        "nome": "Grêmio",
+        "descricao": "Conhecido como Imortal Tricolor, o Grêmio manda seus jogos na Arena do Grêmio, que fica na cidade de Porto Alegre.",
+        "ano": "1903",
+        "link": "https://gremio.net/"
+    },
+    {
+        "nome": "Guarani",
+        "descricao": "Conhecido como Bugre, o Guarani manda seus jogos no Estádio Brinco de Ouro da Princesa, que fica na cidade de Campinas.",
+        "ano": "1911",
+        "link": "https://guaranifc.com.br/"
+    },
+    {
+        "nome": "Internacional",
+        "descricao": "Conhecido como Colorado, o Internacional manda seus jogos no Estádio Beira-Rio, que fica na cidade de Porto Alegre.",
+        "ano": "1909",
+        "link": "https://internacional.com.br/"
+    },
+    {
+        "nome": "Juventude",
+        "descricao": "Conhecido como Papo, o Juventude manda seus jogos no Estádio Alfredo Jaconi, que fica na cidade de Caxias do Sul.",
+        "ano": "1913",
+        "link": "https://juventude.com.br/"
+    },
+    {
+        "nome": "Mirassol",
+        "descricao": "Conhecido como Leão da Alta, o Mirassol manda seus jogos no Estádio José Maria de Campos Maia, que fica na cidade de Mirassol.",
+        "ano": "1925",
+        "link": "https://mirassolfc.com.br/"
+    },
+    {
+        "nome": "Náutico",
+        "descricao": "Conhecido como Timbu, o Náutico manda seus jogos no Estádio dos Aflitos, que fica na cidade de Recife.",
+        "ano": "1901",
+        "link": "https://www.nautico-pe.com.br/"
+    },
+    {
+        "nome": "Palmeiras",
+        "descricao": "Conhecido como Verdão, o Palmeiras manda seus jogos no Allianz Parque, que fica na cidade de São Paulo.",
+        "ano": "1914",
+        "link": "https://www.palmeiras.com.br/"
+    },
+    {
+        "nome": "Paysandu",
+        "descricao": "Conhecido como Papão da Curuzu, o Paysandu manda seus jogos no Estádio da Curuzu, que fica na cidade de Belém.",
+        "ano": "1914",
+        "link": "https://paysandu.com.br/"
+    },
+    {
+        "nome": "Ponte Preta",
+        "descricao": "Conhecido como Macaca, a Ponte Preta manda seus jogos no Estádio Moisés Lucarelli, que fica na cidade de Campinas.",
+        "ano": "1900",
+        "link": "https://pontepreta.com.br/"
+    },
+    {
+        "nome": "Portuguesa",
+        "descricao": "Conhecido como Lusa, a Portuguesa manda seus jogos no Estádio do Canindé, que fica na cidade de São Paulo.",
+        "ano": "1920",
+        "link": "https://portuguesa.com.br/"
+    },
+    {
+        "nome": "Red Bull Bragantino",
+        "descricao": "Conhecido como Massa Bruta, o Red Bull Bragantino manda seus jogos no Estádio Nabi Abi Chedid, que fica na cidade de Bragança Paulista.",
+        "ano": "1928",
+        "link": "https://www.redbullbragantino.com.br/"
+    },
+    {
+        "nome": "Remo",
+        "descricao": "Conhecido como Leão Azul, o Remo manda seus jogos no Baenão, que fica na cidade de Belém.",
+        "ano": "1905",
+        "link": "https://www.clubedoremo.com.br/"
+    },
+    {
+        "nome": "Santos",
+        "descricao": "Conhecido como Peixe, o Santos manda seus jogos na Vila Belmiro, que fica na cidade de Santos.",
+        "ano": "1912",
+        "link": "https://www.santosfc.com.br/"
+    },
+    {
+        "nome": "São Paulo",
+        "descricao": "Conhecido como Tricolor Paulista, o São Paulo manda seus jogos no MorumBIS, que fica na cidade de São Paulo.",
+        "ano": "1930",
+        "link": "https://www.saopaulofc.net/"
+    },
+    {
+        "nome": "Santa Cruz",
+        "descricao": "Conhecido como Cobra Coral, o Santa Cruz manda seus jogos no Estádio do Arruda, que fica na cidade de Recife.",
+        "ano": "1914",
+        "link": "https://santacruzpe.com.br/"
+    },
+    {
+        "nome": "Sport Recife",
+        "descricao": "Conhecido como Leão da Ilha, o Sport Recife manda seus jogos na Ilha do Retiro, que fica na cidade de Recife.",
+        "ano": "1905",
+        "link": "https://sportrecife.com.br/"
+    },
+    {
+        "nome": "Vasco da Gama",
+        "descricao": "Conhecido como Gigante da Colina, o Vasco da Gama manda seus jogos em São Januário, que fica na cidade do Rio de Janeiro.",
+        "ano": "1898",
+        "link": "https://vasco.com.br/"
+    },
+    {
+        "nome": "Vila Nova",
+        "descricao": "Conhecido como Tigrão, o Vila Nova manda seus jogos no Estádio Onésio Brasileiro Alvarenga, que fica na cidade de Goiânia.",
+        "ano": "1943",
+        "link": "https://vilanovafc.com.br/"
+    },
+    {
+        "nome": "Vitória",
+        "descricao": "Conhecido como Leão da Barra, o Vitória manda seus jogos no Barradão, que fica na cidade de Salvador.",
+        "ano": "1899",
+        "link": "https://ecvitoria.com.br/public/Inicio/"
+    }
+]
