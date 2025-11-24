@@ -1,0 +1,242 @@
+[
+    {
+        "nome": "Real Madrid",
+        "descricao": "Conhecido como 'Merengues', o Real Madrid manda seus jogos no Santiago Bernabéu, em Madrid, Espanha.",
+        "ano": "1902",
+        "link": "https://www.realmadrid.com/"
+    },
+    {
+        "nome": "Barcelona",
+        "descricao": "Conhecido como 'Barça' ou 'Blaugrana', o Barcelona manda seus jogos no Camp Nou, em Barcelona, Espanha.",
+        "ano": "1899",
+        "link": "https://www.fcbarcelona.com/"
+    },
+    {
+        "nome": "Manchester United",
+        "descricao": "Conhecido como 'Red Devils', o Manchester United manda seus jogos no Old Trafford, em Manchester, Inglaterra.",
+        "ano": "1878",
+        "link": "https://www.manutd.com/"
+    },
+    {
+        "nome": "Liverpool",
+        "descricao": "Conhecido como 'The Reds', o Liverpool manda seus jogos no Anfield, em Liverpool, Inglaterra.",
+        "ano": "1892",
+        "link": "https://www.liverpoolfc.com/"
+    },
+    {
+        "nome": "Bayern de Munique",
+        "descricao": "Conhecido como 'Die Roten', o Bayern de Munique manda seus jogos na Allianz Arena, em Munique, Alemanha.",
+        "ano": "1900",
+        "link": "https://fcbayern.com/"
+    },
+    {
+        "nome": "Manchester City",
+        "descricao": "Conhecido como 'The Citizens', o Manchester City manda seus jogos no Etihad Stadium, em Manchester, Inglaterra.",
+        "ano": "1880",
+        "link": "https://www.mancity.com/"
+    },
+    {
+        "nome": "Paris Saint-Germain",
+        "descricao": "Conhecido como 'PSG', o Paris Saint-Germain manda seus jogos no Parc des Princes, em Paris, França.",
+        "ano": "1970",
+        "link": "https://www.psg.fr/"
+    },
+    {
+        "nome": "Chelsea",
+        "descricao": "Conhecido como 'The Blues', o Chelsea manda seus jogos no Stamford Bridge, em Londres, Inglaterra.",
+        "ano": "1905",
+        "link": "https://www.chelseafc.com/"
+    },
+    {
+        "nome": "Arsenal",
+        "descricao": "Conhecido como 'The Gunners', o Arsenal manda seus jogos no Emirates Stadium, em Londres, Inglaterra.",
+        "ano": "1886",
+        "link": "https://www.arsenal.com/"
+    },
+    {
+        "nome": "Juventus",
+        "descricao": "Conhecida como 'La Vecchia Signora', a Juventus manda seus jogos no Allianz Stadium, em Turim, Itália.",
+        "ano": "1897",
+        "link": "https://www.juventus.com/"
+    },
+    {
+        "nome": "AC Milan",
+        "descricao": "Conhecido como 'Rossoneri', o AC Milan manda seus jogos no San Siro, em Milão, Itália.",
+        "ano": "1899",
+        "link": "https://www.acmilan.com/"
+    },
+    {
+        "nome": "Inter de Milão",
+        "descricao": "Conhecida como 'Nerazzurri', a Inter de Milão manda seus jogos no San Siro, em Milão, Itália.",
+        "ano": "1908",
+        "link": "https://www.inter.it/"
+    },
+    {
+        "nome": "Borussia Dortmund",
+        "descricao": "Conhecido como 'Die Schwarzgelben', o Borussia Dortmund manda seus jogos no Signal Iduna Park, em Dortmund, Alemanha.",
+        "ano": "1909",
+        "link": "https://www.bvb.de/"
+    },
+    {
+        "nome": "Atlético de Madrid",
+        "descricao": "Conhecido como 'Colchoneros', o Atlético de Madrid manda seus jogos no Wanda Metropolitano, em Madrid, Espanha.",
+        "ano": "1903",
+        "link": "https://www.atleticodemadrid.com/"
+    },
+    {
+        "nome": "Tottenham Hotspur",
+        "descricao": "Conhecido como 'Spurs', o Tottenham Hotspur manda seus jogos no Tottenham Hotspur Stadium, em Londres, Inglaterra.",
+        "ano": "1882",
+        "link": "https://www.tottenhamhotspur.com/"
+    },
+    {
+        "nome": "Boca Juniors",
+        "descricao": "Conhecido como 'Xeneizes', o Boca Juniors manda seus jogos na La Bombonera, em Buenos Aires, Argentina.",
+        "ano": "1905",
+        "link": "https://www.bocajuniors.com.ar/"
+    },
+    {
+        "nome": "Ajax",
+        "descricao": "Conhecido como 'Godenzonen', o Ajax manda seus jogos na Johan Cruyff Arena, em Amsterdã, Holanda.",
+        "ano": "1900",
+        "link": "https://www.ajax.nl/"
+    },
+    {
+        "nome": "River Plate",
+        "descricao": "Conhecido como 'Millonarios', o River Plate manda seus jogos no Estadio Monumental, em Buenos Aires, Argentina.",
+        "ano": "1901",
+        "link": "https://www.cariverplate.com.ar/"
+    },
+    {
+        "nome": "Benfica",
+        "descricao": "Conhecido como 'Águias', o Benfica manda seus jogos no Estádio da Luz, em Lisboa, Portugal.",
+        "ano": "1904",
+        "link": "https://www.slbenfica.pt/"
+    },
+    {
+        "nome": "Bayer Leverkusen",
+        "descricao": "Conhecido como 'Werkself', o Bayer Leverkusen manda seus jogos na BayArena, em Leverkusen, Alemanha.",
+        "ano": "1904",
+        "link": "https://www.bayer04.de/"
+    },
+    {
+        "nome": "Porto",
+        "descricao": "Conhecido como 'Dragões', o Porto manda seus jogos no Estádio do Dragão, na cidade do Porto, Portugal.",
+        "ano": "1893",
+        "link": "https://www.fcporto.pt/"
+    },
+    {
+        "nome": "Sporting CP",
+        "descricao": "Conhecido como 'Leões', o Sporting manda seus jogos no Estádio José Alvalade, em Lisboa, Portugal.",
+        "ano": "1906",
+        "link": "https://www.sporting.pt/"
+    },
+    {
+        "nome": "Atalanta",
+        "descricao": "Conhecida como 'La Dea', a Atalanta manda seus jogos no Gewiss Stadium, em Bérgamo, Itália.",
+        "ano": "1907",
+        "link": "https://www.atalanta.it/"
+    },
+    {
+        "nome": "PSV Eindhoven",
+        "descricao": "Conhecido como 'Boeren', o PSV manda seus jogos no Philips Stadion, em Eindhoven, Holanda.",
+        "ano": "1913",
+        "link": "https://www.psv.nl/"
+    },
+    {
+        "nome": "Valencia CF",
+        "descricao": "Conhecido como 'Los Che', o Valencia manda seus jogos no Estádio de Mestalla, em Valência, Espanha.",
+        "ano": "1919",
+        "link": "https://www.valenciacf.com/"
+    },
+    {
+        "nome": "Napoli",
+        "descricao": "Conhecido como 'Azzurri', o Napoli manda seus jogos no Stadio Diego Armando Maradona, em Nápoles, Itália.",
+        "ano": "1926",
+        "link": "https://sscnapoli.it/"
+    },
+    {
+        "nome": "Roma",
+        "descricao": "Conhecida como 'La Lupa', a Roma manda seus jogos no Stadio Olimpico, em Roma, Itália.",
+        "ano": "1927",
+        "link": "https://www.asroma.com/"
+    },
+    {
+        "nome": "Shakhtar Donetsk",
+        "descricao": "Conhecido como 'Hirnyky' (Mineiros), o Shakhtar Donetsk é um dos principais clubes da Ucrânia.",
+        "ano": "1936",
+        "link": "https://shakhtar.com/"
+    },
+    {
+        "nome": "Olympique Lyonnais",
+        "descricao": "Conhecido como 'Les Gones', o Lyon manda seus jogos no Parc Olympique Lyonnais, em Lyon, França.",
+        "ano": "1950",
+        "link": "https://www.ol.fr/"
+    },
+    {
+        "nome": "RB Leipzig",
+        "descricao": "Conhecido como 'Die Roten Bullen', o RB Leipzig manda seus jogos na Red Bull Arena, em Leipzig, Alemanha.",
+        "ano": "2009",
+        "link": "https://rbleipzig.com/"
+    },
+    {
+        "nome": "Olympique de Marseille",
+        "descricao": "Conhecido como 'Les Phocéens', o Olympique de Marseille manda seus jogos no Orange Vélodrome, em Marselha, França.",
+        "ano": "1899",
+        "link": "https://www.om.fr/"
+    },
+    {
+        "nome": "Celtic",
+        "descricao": "Conhecido como 'The Bhoys', o Celtic manda seus jogos no Celtic Park, em Glasgow, Escócia.",
+        "ano": "1887",
+        "link": "https://www.celticfc.net/"
+    },
+    {
+        "nome": "Rangers",
+        "descricao": "Conhecido como 'The Gers', o Rangers manda seus jogos no Ibrox Stadium, em Glasgow, Escócia.",
+        "ano": "1872",
+        "link": "https://www.rangers.co.uk/"
+    },
+    {
+        "nome": "Sevilla FC",
+        "descricao": "Conhecido como 'Los Nervionenses', o Sevilla manda seus jogos no Estádio Ramón Sánchez-Pizjuán, em Sevilha, Espanha.",
+        "ano": "1890",
+        "link": "https://www.sevillafc.es/"
+    },
+    {
+        "nome": "Galatasaray",
+        "descricao": "Conhecido como 'Aslanlar' (Leões), o Galatasaray manda seus jogos no Rams Park, em Istambul, Turquia.",
+        "ano": "1905",
+        "link": "https://www.galatasaray.org/"
+    },
+    {
+        "nome": "Fenerbahçe",
+        "descricao": "Conhecido como 'Sarı Kanaryalar' (Canários Amarelos), o Fenerbahçe manda seus jogos no Estádio Şükrü Saracoğlu, em Istambul, Turquia.",
+        "ano": "1907",
+        "link": "https://www.fenerbahce.org/"
+    },
+    {
+        "nome": "Lazio",
+        "descricao": "Conhecida como 'I Biancocelesti', a Lazio manda seus jogos no Stadio Olimpico, em Roma, Itália.",
+        "ano": "1900",
+        "link": "https://www.sslazio.it/"
+    },
+    {
+        "nome": "Al-Nassr",
+        "descricao": "O Al-Nassr é um dos clubes mais bem-sucedidos da Arábia Saudita, mandando seus jogos no Al-Awwal Park, em Riade.",
+        "ano": "1955",
+        "link": "https://al-nassr.sa/"
+    },
+    {
+        "nome": "América (México)",
+        "descricao": "Conhecido como 'Las Águilas', o Club América manda seus jogos no Estadio Azteca, na Cidade do México.",
+        "ano": "1916",
+        "link": "https://www.clubamerica.com.mx/"
+    },
+    {
+        "nome": "Chivas (Guadalajara)",
+        "descricao": "Conhecido como 'Rebaño Sagrado', o Chivas manda seus jogos no Estadio Akron, em Guadalajara, México.",
+        "ano": "1906",
+        "link": "https://www.chivasdecorazon.com.mx/"
+    }
+]

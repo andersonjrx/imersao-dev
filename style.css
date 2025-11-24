@@ -12,6 +12,13 @@
     --bg-color: #243227; 
 }
 
+/* Tema para a seção "Mundo" */
+.mundo-theme {
+    --primary-color: #FFD700;   /* Dourado */
+    --accent-olor: #0D254Cb1;   /* Azul escuro com transparência */
+    --bg-color: #0A192F;        /* Azul marinho bem escuro */
+}
+
 body {
     margin: 0; /* Remove a margem padrão do body */
     background: var(--bg-color); /* Define a cor de fundo usando uma variável */
@@ -265,4 +272,54 @@ article a:hover {
     button { /* Estilos para o botão em telas muito pequenas */
         margin-top: 1rem; /* Adiciona margem no topo */
     }
+}
+
+#botao-mundo {
+    padding: 1rem 2rem; /* Espaçamento interno */
+    border-radius: 1rem; /* Arredonda as bordas */
+    border: none; /* Remove a borda padrão */
+    cursor: pointer; /* Muda o cursor para uma mão ao passar por cima */
+    font-family: inherit; /* Herda a família da fonte */
+    font-weight: 500; /* Peso da fonte */
+    font-size: 1rem; /* Tamanho da fonte */
+    white-space: nowrap; /* Impede a quebra de linha do texto */
+    transition: background-color 0.2s ease, color 0.2s ease; /* Transição suave para cor de fundo e cor do texto */
+    background-color: var(--bg-color); /* Cor de fundo */
+    color: var(--secondary-color); /* Cor do texto */
+    border: 1px solid var(--bg-color); /* Adiciona uma borda */
+}
+
+#botao-mundo:hover {
+    background-color: var(--primary-color); /* Muda a cor de fundo ao passar o mouse */
+    color: var(--bg-color); /* Muda a cor do texto ao passar o mouse */
+    box-shadow: 0 0 0 0.1rem var(--primary-color); /* Adiciona uma sombra de caixa */
+}
+
+#botao-mundo:active {
+    transform: scale(0.98); /* Efeito de clique (diminui o tamanho) */
+}
+
+#botao-brasil {
+    padding: 1rem 2rem; /* Espaçamento interno */
+    border-radius: 1rem; /* Arredonda as bordas */
+    border: none; /* Remove a borda padrão */
+    cursor: pointer; /* Muda o cursor para uma mão ao passar por cima */
+    font-family: inherit; /* Herda a família da fonte */
+    font-weight: 500; /* Peso da fonte */
+    font-size: 1rem; /* Tamanho da fonte */
+    white-space: nowrap; /* Impede a quebra de linha do texto */
+    transition: background-color 0.2s ease, color 0.2s ease; /* Transição suave para cor de fundo e cor do texto */
+    background-color: var(--bg-color); /* Cor de fundo */
+    color: var(--secondary-color); /* Cor do texto */
+    border: 1px solid var(--bg-color); /* Adiciona uma borda */
+}
+
+#botao-brasil:hover {
+    background-color: var(--primary-color); /* Muda a cor de fundo ao passar o mouse */
+    color: var(--bg-color); /* Muda a cor do texto ao passar o mouse */
+    box-shadow: 0 0 0 0.1rem var(--primary-color); /* Adiciona uma sombra de caixa */
+}
+
+#botao-brasil:active {
+    transform: scale(0.98); /* Efeito de clique (diminui o tamanho) */
 }
