@@ -1,4 +1,4 @@
-<h1 align="center">⚽ WikiFut Brasil</h1>
+<h1 align="center">⚽ WikiFut</h1>
 
 <div align="center">
    <img src="https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge">
@@ -10,7 +10,7 @@
 
 ## 📜 Sobre o Projeto
 
-O **WikiFut Brasil** é uma base de conhecimento interativa que permite pesquisar informações, estádios e curiosidades sobre os principais times do futebol brasileiro.
+O **WikiFut** é uma base de conhecimento interativa que permite pesquisar informações, estádios e curiosidades sobre os principais times do futebol brasileiro e do mundo.
 
 Este projeto foi desenvolvido aplicando conceitos de **Lógica de Programação**, **Front-end** e **Inteligência Artificial** durante a **Imersão Dev**, evento promovido pela **Alura** em parceria com o **Google Gemini**.
 
